@@ -1,7 +1,8 @@
-### Hi there 👋
+### Hi there 👋, I'm Lento.
 
-- 🔭 I’m currently working on machine learning and PIV.
-- ⚡ Fun fact: I'm interested in python, HPC, CFD, PIV, and machine learning.
+- 🦊 I'm an aerospace engineer, currently postdoc at Empa🇨🇭. 
+- 🔭 I’m currently working of PIV & machine learning.
+- ⚡ Fun fact: I'm quite interested in fluid dynamics, specifically CFD methods at HPC scale.
 
 <!--
 **lento234/lento234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
