@@ -2,6 +2,9 @@
 
 - 🔭 I’m currently working of PIV & machine learning.
 
+
+- 😄 About me: I'm an aerospace engineer 🚀, currently at Empa, Switzerland🇨🇭.
+
 - ✨ Fun fact: I'm quite interested in fluid dynamics, specifically CFD methods at HPC scale.
 
 <!--
