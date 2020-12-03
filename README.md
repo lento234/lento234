@@ -6,9 +6,7 @@
 
 - ✨ Fun fact: I'm quite interested in fluid dynamics, specifically CFD methods at HPC scale.
 
-<p align="center">
-  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=lento234&layout=compact&hide=tex&hide_border=true)](https://github.com/anuraghazra/github-readme-stats">
-</p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lento234&layout=compact&hide=tex&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
