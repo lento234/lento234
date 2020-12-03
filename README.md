@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Lento .
+### Hi there 👋, I'm Lento.
 
 - 🔭 I’m currently working of PIV & machine learning.
 
