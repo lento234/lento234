@@ -6,6 +6,9 @@
 
 - ✨ Fun fact: I'm quite interested in fluid dynamics, specifically CFD methods at HPC scale.
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lento234&layout=compact&hide=tex)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **lento234/lento234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
