@@ -1,10 +1,10 @@
 ### Hi there 👋, I'm Lento.
 
-- 🔭 I’m currently working of PIV & machine learning.
+- 🔭 I’m currently working on PIV & machine learning.
 
 - 🦊 About me: I'm an aerospace engineer 🚀, currently at Empa, Switzerland.
 
-- ✨ Fun fact: I'm quite interested in fluid dynamics, specifically CFD methods at HPC scale.
+- ✨ Fun fact: I'm quite interested in fluid dynamics, specifically HPC CFD methods.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lento234&layout=compact&hide=tex&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
