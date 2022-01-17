@@ -7,7 +7,7 @@
 <!-- ![Metrics](https://metrics.lecoq.io/lento234?template=classic&isocalendar=1&isocalendar.duration=half-year&config.timezone=Europe%2FZurich) -->
 
 <a href="https://metrics.lecoq.io/about/lento234"><img src="github-metrics-summary.svg" align="left" width="47.5%"></img></a>
-<a href="https://metrics.lecoq.io/about/lento234"><img src="github-metrics-isocalendar.svg" align="left" width="47.5%"></img></a>
+<a href="https://metrics.lecoq.io/about/lento234"><img src="github-metrics-plugins.svg" align="left" width="47.5%"></img></a>
 
 <br/>
 
