@@ -1,4 +1,6 @@
-### Hi there 👋, I'm Lento.
+### Hi there 👋
+
+I'm [Lento](https://manickathan.ch). Here is some quick facts about me:
 
 - 🔭 I’m currently working on PIV & machine learning.
 - ✨ Fun fact: I'm quite interested in fluid dynamics, specifically HPC CFD methods.
