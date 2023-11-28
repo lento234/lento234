@@ -5,9 +5,8 @@
 
 #### Quick facts:
 
-- 🔭 I’m currently working on PIV & machine learning.
-- ✨ Fun fact: I'm quite interested in fluid dynamics, specifically HPC CFD methods.
-- 🦊 About me: I'm an aerospace engineer 🚀, currently at Empa, Switzerland.
+- 🔭 I’m currently working as a software engineer at Disney Research Studios, Zurich.
+- 🦊 About me: Aerospace engineer 🚀, fluid dynamics researcher 🌀, and a software engineer 🧑‍💻.
 
 #### GitHub stats:
 
